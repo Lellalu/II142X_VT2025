@@ -2,7 +2,7 @@ import argparse
 import os
 import time
 import pandas as pd
-from llm_purchase_generator_test import LLMPurchaseGenerator, User
+from syntheticDataGenerators.investment.llm_purchase_generator import LLMPurchaseGenerator, User
 from tqdm import tqdm
 from investmentByAge import female_investments_by_age_median, male_investments_by_age_median
 
