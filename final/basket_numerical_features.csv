@@ -1,0 +1,198 @@
+basket_name,basket_encoded,industry_name_feature,industry_name_name,economic_sector_name_feature,economic_sector_name_name,Size Category_feature,Size Category_name,volatility_category_feature,volatility_category_name
+Air related companies world,0,5,Airlines,8,Industrials,2,Medium,1,High
+Aluminium ,1,7,Aluminum,2,Basic Materials,1,Small,1,High
+Aussi Fin,2,76,Investment Holding Companies,6,Financials,1,Small,3,Medium
+Aussi Fin extra,3,127,Toys & Children's Products,3,Consumer Cyclicals,1,Small,1,High
+Aussi Fin extra ny,4,127,Toys & Children's Products,3,Consumer Cyclicals,1,Small,1,High
+Aussi healthcare,5,9,Apparel & Accessories Retailers,3,Consumer Cyclicals,1,Small,1,High
+Australia tech index,6,121,Software,10,Technology,3,Large,1,High
+Australian Health,7,1,Advanced Medical Equipment & Technology,7,Healthcare,1,Small,1,High
+Australian Health 2,8,1,Advanced Medical Equipment & Technology,7,Healthcare,1,Small,1,High
+Australian Health 3,9,1,Advanced Medical Equipment & Technology,7,Healthcare,1,Small,1,High
+Austria blended companies,10,110,"Real Estate Rental, Development & Operations",2,Basic Materials,2,Medium,3,Medium
+Austria business,11,110,"Real Estate Rental, Development & Operations",8,Industrials,1,Small,3,Medium
+BIG INDEX Global,12,119,Semiconductors,10,Technology,3,Large,1,High
+Basic materials World,13,59,Gold,2,Basic Materials,3,Large,3,Medium
+Beer mate,14,3,Aerospace & Defense,8,Industrials,1,Small,1,High
+Belgian advanced medical,15,25,Commercial REITs,9,Real Estate,2,Medium,3,Medium
+Biotech  EBITDA>0,16,15,Biotechnology & Medical Research,7,Healthcare,1,Small,1,High
+Biotech  MCAP >30 m and < 80 m,17,15,Biotechnology & Medical Research,7,Healthcare,1,Small,1,High
+Biotech UK,18,15,Biotechnology & Medical Research,7,Healthcare,1,Small,1,High
+Bjorns test,19,105,Pharmaceuticals,7,Healthcare,1,Small,3,Medium
+Bjorns test 2,20,105,Pharmaceuticals,7,Healthcare,1,Small,1,High
+Blended companies profitable,21,110,"Real Estate Rental, Development & Operations",9,Real Estate,1,Small,3,Medium
+Blockchain and crypto,22,16,Blockchain & Cryptocurrency,10,Technology,1,Small,1,High
+Broadcasting companiess,23,18,Broadcasting,3,Consumer Cyclicals,1,Small,1,High
+Bullish polish,24,99,Online Services,10,Technology,1,Small,1,High
+Casino fun,25,21,Casinos & Gaming,3,Consumer Cyclicals,1,Small,1,High
+Chilean metal,26,123,Specialty Mining & Metals,2,Basic Materials,1,Small,1,High
+Computer Hardware,27,29,Computer Hardware,10,Technology,1,Small,1,High
+Consumer Global INDEX,28,116,Restaurants & Bars,3,Consumer Cyclicals,2,Medium,3,Medium
+Consumer loans,29,34,Consumer Lending,6,Financials,1,Small,1,High
+Consumers in Europe,30,54,Fishing & Farming,4,Consumer Non-Cyclicals,1,Small,1,High
+Contracts of Finland,31,47,Electrical Components & Equipment,8,Industrials,1,Small,3,Medium
+Cross over well performing,32,46,Electric Utilities,11,Utilities,2,Medium,3,Medium
+Danish beer,33,17,Brewers,4,Consumer Non-Cyclicals,3,Large,3,Medium
+Danish contracts,34,17,Brewers,3,Consumer Cyclicals,1,Small,1,High
+Danish healthcare,35,1,Advanced Medical Equipment & Technology,7,Healthcare,1,Small,1,High
+Design and Furnishing,36,64,Home Furnishings,3,Consumer Cyclicals,1,Small,1,High
+EBITDA Sweden,37,121,Software,10,Technology,1,Small,1,High
+Education EU,38,85,Miscellaneous Educational Service Providers,1,Academic & Educational Services,1,Small,1,High
+Energy well performance,39,98,Oil Related Services and Equipment,5,Energy,1,Small,1,High
+European airlines,40,5,Airlines,8,Industrials,1,Small,1,High
+European fishing,41,56,Food Retail & Distribution,4,Consumer Non-Cyclicals,1,Small,1,High
+European furnishing,42,64,Home Furnishings,3,Consumer Cyclicals,1,Small,3,Medium
+Fashion mix,43,8,Apparel & Accessories,3,Consumer Cyclicals,1,Small,1,High
+Financial East,44,77,Investment Management & Fund Operators,6,Financials,1,Small,1,High
+Financial Spain,45,43,Diversified Investment Services,6,Financials,1,Small,1,High
+Financial World  nu funds,46,52,Financial & Commodity Market Operators & Service Providers,6,Financials,3,Large,3,Medium
+Financial companies Europé,47,77,Investment Management & Fund Operators,6,Financials,1,Small,1,High
+Financial stars,48,77,Investment Management & Fund Operators,6,Financials,1,Small,1,High
+Finnish smartphones,49,121,Software,10,Technology,1,Small,1,High
+Finnish tech,50,70,IT Services & Consulting,10,Technology,1,Small,1,High
+Food Sweden,51,55,Food Processing,4,Consumer Non-Cyclicals,1,Small,3,Medium
+Food Sweden 2,52,55,Food Processing,4,Consumer Non-Cyclicals,1,Small,3,Medium
+Food producents Denmark,53,55,Food Processing,4,Consumer Non-Cyclicals,3,Large,3,Medium
+Food producents Finland,54,55,Food Processing,4,Consumer Non-Cyclicals,1,Small,3,Medium
+Food producents Norway,55,55,Food Processing,4,Consumer Non-Cyclicals,2,Medium,1,High
+Food producents Sweden,56,55,Food Processing,4,Consumer Non-Cyclicals,1,Small,1,High
+Food world 5,57,55,Food Processing,4,Consumer Non-Cyclicals,3,Large,3,Medium
+Food world 6,58,55,Food Processing,4,Consumer Non-Cyclicals,3,Large,3,Medium
+Food world 7,59,55,Food Processing,4,Consumer Non-Cyclicals,3,Large,3,Medium
+Franska finansbolag,60,77,Investment Management & Fund Operators,6,Financials,1,Small,3,Medium
+French Energy,61,72,Industrial Machinery & Equipment,6,Financials,2,Medium,3,Medium
+French and German airlines,62,5,Airlines,8,Industrials,1,Small,1,High
+French companies,63,105,Pharmaceuticals,7,Healthcare,2,Medium,1,High
+French diversity,64,15,Biotechnology & Medical Research,7,Healthcare,1,Small,1,High
+French steel,65,103,Personal Products,4,Consumer Non-Cyclicals,2,Medium,3,Medium
+German Broadcasting,66,18,Broadcasting,3,Consumer Cyclicals,1,Small,1,High
+German Green Energy,67,113,Renewable Energy Equipment & Services,5,Energy,1,Small,1,High
+German and French companies,68,105,Pharmaceuticals,7,Healthcare,1,Small,1,High
+German companies,69,110,"Real Estate Rental, Development & Operations",8,Industrials,1,Small,1,High
+German companies all sector,70,77,Investment Management & Fund Operators,6,Financials,1,Small,1,High
+German fintech,71,53,Financial Technology (Fintech),10,Technology,1,Small,1,High
+German mining,72,1,Advanced Medical Equipment & Technology,7,Healthcare,1,Small,1,High
+Global electric utilities,73,46,Electric Utilities,11,Utilities,3,Large,3,Medium
+Global healthcare,74,105,Pharmaceuticals,7,Healthcare,1,Small,1,High
+Global healthcare I,75,105,Pharmaceuticals,7,Healthcare,1,Small,1,High
+Global index great valuers,76,121,Software,7,Healthcare,1,Small,1,High
+Global utilities,77,46,Electric Utilities,11,Utilities,2,Medium,3,Medium
+Great World software,78,121,Software,10,Technology,2,Medium,1,High
+Growth Rockets,79,121,Software,10,Technology,2,Medium,1,High
+Healtcare Europe top valuers,80,15,Biotechnology & Medical Research,7,Healthcare,1,Small,1,High
+Healtcare Global valuers,81,15,Biotechnology & Medical Research,7,Healthcare,1,Small,1,High
+Healthcare Facilities,82,60,Healthcare Facilities & Services,7,Healthcare,1,Small,1,High
+Healthcare Northern Europe,83,15,Biotechnology & Medical Research,7,Healthcare,2,Medium,1,High
+Healthcare southern Europé,84,105,Pharmaceuticals,7,Healthcare,2,Medium,1,High
+High profits with growth,85,47,Electrical Components & Equipment,6,Financials,1,Small,3,Medium
+Hotels Germany,86,67,"Hotels, Motels & Cruise Lines",3,Consumer Cyclicals,1,Small,1,High
+Hotels Scandinavia,87,67,"Hotels, Motels & Cruise Lines",3,Consumer Cyclicals,2,Medium,3,Medium
+Hotels UK,88,67,"Hotels, Motels & Cruise Lines",3,Consumer Cyclicals,1,Small,1,High
+IT Services EUu,89,70,IT Services & Consulting,10,Technology,1,Small,1,High
+Investment Banking,90,75,Investment Banking & Brokerage Services,6,Financials,1,Small,1,High
+Irish coal,91,44,Diversified Mining,2,Basic Materials,1,Small,1,High
+Italian IT consultants,92,70,IT Services & Consulting,10,Technology,1,Small,1,High
+Kalle p,93,1,Advanced Medical Equipment & Technology,7,Healthcare,1,Small,1,High
+Kalle p 2,94,1,Advanced Medical Equipment & Technology,7,Healthcare,1,Small,1,High
+Luxury cars,95,11,Auto & Truck Manufacturers,3,Consumer Cyclicals,1,Small,3,Medium
+MURICA FUCK YEAH!,96,12,"Auto Vehicles, Parts & Service Retailers",3,Consumer Cyclicals,2,Medium,1,High
+MooseBit - best case,97,60,Healthcare Facilities & Services,7,Healthcare,1,Small,1,High
+MooseBit explosion,98,95,Oil & Gas Exploration and Production,5,Energy,1,Small,1,High
+MooseBit underdog,99,19,Business Support Services,8,Industrials,2,Medium,3,Medium
+MooseBit underdog II,100,83,"Medical Equipment, Supplies & Distribution",7,Healthcare,1,Small,1,High
+Most traded stocks,101,70,IT Services & Consulting,10,Technology,1,Small,1,High
+Nordic Advanced Medical Equip,102,1,Advanced Medical Equipment & Technology,7,Healthcare,1,Small,1,High
+Nordic Beers,103,17,Brewers,4,Consumer Non-Cyclicals,1,Small,3,Medium
+Nordic Construction Companies,104,30,Construction & Engineering,8,Industrials,1,Small,1,High
+Nordic Fashion,105,8,Apparel & Accessories,3,Consumer Cyclicals,1,Small,1,High
+Nordic Green Energy,106,113,Renewable Energy Equipment & Services,5,Energy,1,Small,1,High
+Nordic High quality sprits,107,40,Distillers & Wineries,4,Consumer Non-Cyclicals,1,Small,1,High
+Nordic consumer electronics,108,68,Household Electronics,10,Technology,1,Small,1,High
+Nordic healthcare Facilities,109,60,Healthcare Facilities & Services,7,Healthcare,1,Small,1,High
+Nordic medical equipment,110,1,Advanced Medical Equipment & Technology,7,Healthcare,1,Small,1,High
+Nordic software EBITDA > 0,111,121,Software,10,Technology,1,Small,1,High
+Nordic technology vikings,112,48,Electronic Equipment & Parts,10,Technology,1,Small,1,High
+Norweigan super stars,113,3,Aerospace & Defense,8,Industrials,3,Large,1,High
+Oceania valuecreators,114,30,Construction & Engineering,7,Healthcare,1,Small,1,High
+Oh la la companies,115,79,Leisure & Recreation,3,Consumer Cyclicals,1,Small,1,High
+Oh la la companies not null,116,79,Leisure & Recreation,3,Consumer Cyclicals,1,Small,3,Medium
+Per 10,117,130,Wireless Telecommunications Services,10,Technology,1,Small,3,Medium
+Per 11,118,130,Wireless Telecommunications Services,10,Technology,1,Small,3,Medium
+Per 12,119,130,Wireless Telecommunications Services,10,Technology,1,Small,3,Medium
+Pers 13,120,106,Phones & Handheld Devices,10,Technology,1,Small,1,High
+Pers 14,121,130,Wireless Telecommunications Services,10,Technology,1,Small,1,High
+Pers Choice Europé,122,12,"Auto Vehicles, Parts & Service Retailers",3,Consumer Cyclicals,1,Small,1,High
+Pers Choice Finland,123,12,"Auto Vehicles, Parts & Service Retailers",3,Consumer Cyclicals,1,Small,3,Medium
+Pers Superblend my best choice,124,27,Communications & Networking,10,Technology,1,Small,1,High
+Pers choice downunder,125,1,Advanced Medical Equipment & Technology,6,Financials,1,Small,1,High
+Pers worst Choice Finland,126,10,"Appliances, Tools & Housewares",3,Consumer Cyclicals,1,Small,1,High
+Pers worst Choice Finland ii,127,10,"Appliances, Tools & Housewares",3,Consumer Cyclicals,1,Small,1,High
+Pharmaceuticals EU,128,105,Pharmaceuticals,7,Healthcare,1,Small,1,High
+Real estate Europe,129,110,"Real Estate Rental, Development & Operations",9,Real Estate,2,Medium,1,High
+Renewable energy world,130,113,Renewable Energy Equipment & Services,5,Energy,2,Medium,1,High
+Renewable energy world ALL,131,113,Renewable Energy Equipment & Services,5,Energy,2,Medium,1,High
+Restaurants  Bars,132,116,Restaurants & Bars,3,Consumer Cyclicals,1,Small,1,High
+Rubber and Tires,133,125,Tires & Rubber Products,3,Consumer Cyclicals,1,Small,1,High
+Sea food France,134,54,Fishing & Farming,4,Consumer Non-Cyclicals,1,Small,1,High
+Sea food Norway,135,54,Fishing & Farming,4,Consumer Non-Cyclicals,1,Small,1,High
+Sea food UK,136,54,Fishing & Farming,4,Consumer Non-Cyclicals,1,Small,1,High
+Showbizz companies,137,50,Entertainment Production,3,Consumer Cyclicals,1,Small,1,High
+"Software Americas, small comp",138,70,IT Services & Consulting,10,Technology,1,Small,1,High
+"Software Americas, small mcap",139,70,IT Services & Consulting,10,Technology,1,Small,1,High
+Software Australian small comp,140,121,Software,10,Technology,1,Small,1,High
+Software for gaming,141,121,Software,10,Technology,1,Small,1,High
+Software in Denmark,142,121,Software,10,Technology,1,Small,1,High
+Software in Germany,143,121,Software,10,Technology,1,Small,1,High
+Software in Sweden,144,121,Software,10,Technology,1,Small,1,High
+"Software, Global , small mcap",145,121,Software,10,Technology,2,Medium,1,High
+Solar energy,146,113,Renewable Energy Equipment & Services,5,Energy,1,Small,1,High
+Spanish Wine,147,40,Distillers & Wineries,4,Consumer Non-Cyclicals,1,Small,1,High
+Spanish companies,148,30,Construction & Engineering,8,Industrials,1,Small,1,High
+Straya UK,149,128,UK Investment Trusts,6,Financials,1,Small,3,Medium
+Strayan beer mate,150,17,Brewers,4,Consumer Non-Cyclicals,1,Small,1,High
+Strong value growth Europe,151,47,Electrical Components & Equipment,8,Industrials,1,Small,3,Medium
+Super software,152,121,Software,10,Technology,1,Small,1,High
+Super software III,153,121,Software,10,Technology,1,Small,1,High
+Sustainable electric equipment,154,47,Electrical Components & Equipment,8,Industrials,1,Small,1,High
+Swedish  Biotech,155,15,Biotechnology & Medical Research,7,Healthcare,1,Small,1,High
+Swedish Top Mix,156,74,Integrated Telecommunications Services,10,Technology,2,Medium,3,Medium
+Swedish climbers,157,70,IT Services & Consulting,10,Technology,1,Small,3,Medium
+Swedish fintech,158,53,Financial Technology (Fintech),10,Technology,1,Small,1,High
+Swedish mibile tech,159,130,Wireless Telecommunications Services,10,Technology,1,Small,3,Medium
+Swedish mibile tech adjusted,160,106,Phones & Handheld Devices,10,Technology,1,Small,1,High
+Swedish mobile tech smallcap,161,106,Phones & Handheld Devices,10,Technology,1,Small,1,High
+Swedish paper positive EBITDA,162,101,Paper Products,2,Basic Materials,1,Small,3,Medium
+Swedish positive EBITDA,163,53,Financial Technology (Fintech),10,Technology,1,Small,1,High
+Swedish tech,164,121,Software,10,Technology,1,Small,1,High
+Swedish weaked valued,165,51,Environmental Services & Equipment,8,Industrials,1,Small,1,High
+Tech online services World,166,99,Online Services,10,Technology,3,Large,1,High
+Technology stars of value,167,70,IT Services & Consulting,10,Technology,1,Small,1,High
+Techs going upward,168,121,Software,10,Technology,1,Small,1,High
+Techs seeking value upgrade,169,121,Software,10,Technology,1,Small,1,High
+Tjeckiska finansbolag,170,14,Banks,6,Financials,1,Small,3,Medium
+UK as a sector,171,15,Biotechnology & Medical Research,10,Technology,2,Medium,1,High
+UK fintech,172,53,Financial Technology (Fintech),10,Technology,1,Small,1,High
+UK telecom,173,130,Wireless Telecommunications Services,10,Technology,2,Medium,1,High
+US Healthcare medical research,174,15,Biotechnology & Medical Research,7,Healthcare,1,Small,1,High
+US airlines,175,5,Airlines,8,Industrials,1,Small,1,High
+Underdogs Europe,176,77,Investment Management & Fund Operators,6,Financials,1,Small,1,High
+WTF II,177,94,Oil & Gas Drilling,5,Energy,1,Small,1,High
+WTF…,178,66,Homebuilding,3,Consumer Cyclicals,1,Small,1,High
+Well performed companies,179,46,Electric Utilities,11,Utilities,2,Medium,3,Medium
+Well traded stocks,180,46,Electric Utilities,11,Utilities,3,Large,3,Medium
+Well traded with profit margin,181,110,"Real Estate Rental, Development & Operations",5,Energy,1,Small,1,High
+Why? Dont get it,182,83,"Medical Equipment, Supplies & Distribution",7,Healthcare,1,Small,1,High
+World Software companies,183,121,Software,10,Technology,1,Small,1,High
+World Software companies I,184,121,Software,10,Technology,1,Small,1,High
+Worst investment,185,7,Aluminum,2,Basic Materials,1,Small,1,High
+a123456789b123456789c123456789,186,27,Communications & Networking,10,Technology,1,Small,1,High
+balt business,187,55,Food Processing,8,Industrials,1,Small,3,Medium
+biotech Sweden,188,15,Biotechnology & Medical Research,7,Healthcare,1,Small,1,High
+china big,189,99,Online Services,10,Technology,3,Large,1,High
+china small,190,30,Construction & Engineering,8,Industrials,1,Small,1,High
+forming companies,191,46,Electric Utilities,11,Utilities,1,Small,1,High
+medical equipment medium,192,83,"Medical Equipment, Supplies & Distribution",7,Healthcare,1,Small,1,High
+my best choice ever,193,27,Communications & Networking,10,Technology,1,Small,1,High
+renewable Fuelss,194,114,Renewable Fuels,5,Energy,1,Small,1,High
+telecom medium sizw,195,130,Wireless Telecommunications Services,10,Technology,1,Small,1,High
+trending telecom,196,130,Wireless Telecommunications Services,10,Technology,1,Small,1,High
